@@ -1,0 +1,35 @@
+REST API - Application Programming Interface
+
+Python ---> JSON <--- JS
+
+JSON --> Javascript Object Noatioon
+Key, Value pairs
+
+REST --> Representational State Transfer --> comunicating over web 
+JSON instead of HTML
+
+Python --> endpoint / drinks (GET) / <id> (specific drink) <-- Javascript --> Python
+
+api.calebsfavoritedrinks.com/drinks/5
+
+Python would be backend, frontend could be swift
+
+can make endpoints public
+
+
+GET --> retrieve data
+POST --> Write new data
+DELETE --> delete junk
+PUT --> Update data
+
+CRUD: Create, Read, Update, Delete
+Post, Get, Put, Delete
+
+Post --> Add a new drink
+Put --> drinks / ID (use to update)
+
+Put --> Can replace ID, new one with same ID
+Grape --> Cola
+
+Post --> Cola, add Cola (not replacing, making new record)
+
